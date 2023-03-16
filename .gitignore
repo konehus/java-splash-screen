@@ -1,0 +1,13 @@
+ompiled class files
+*.class
+
+# Build output directories
+/target/
+/build/
+/out/
+/bin/
+
+# Maven files
+/target/
+/pom.xml
+

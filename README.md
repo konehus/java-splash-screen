@@ -9,7 +9,7 @@ This demo showcases how to implement a splash screen in a Java application. A sp
 3. Open a terminal and navigate to the root folder of the project.
 4. Compile the Java source code using the appropriate command in your terminal.
 	```bash
-	javac -d bin src/com/example/Main.java
+	javac aries/SplashScreenDemo.java
 	```
 5. Package the compiled Java code into a JAR file using the appropriate command in your terminal.
 6. Download the `splash-image.png` file from this repository and save it to your local machine.
