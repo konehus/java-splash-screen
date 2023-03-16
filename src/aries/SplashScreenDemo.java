@@ -14,7 +14,7 @@ public class SplashScreenDemo extends Frame implements ActionListener{
     public SplashScreenDemo(){
         super("SplashScreen demo");
 
-        setSize(350, 200);
+        setSize(500, 310);
         setLayout(new BorderLayout());
 
         // Create File menu with Exit menu item
